@@ -1,0 +1,16 @@
+{
+    "fr":{
+        "title": "Mon application de météo",
+        "home": "Accueil",
+        "about": "À propos",
+        "french": "Français",
+        "english": "Anglais"
+    },
+    "en":{
+        "title": "My weather app",
+        "home": "Home",
+        "about": "About",
+        "french": "French",
+        "english": "English"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "fr":{
+        "about": "Cette application a été développée par Mohamed Amine Ameur",
+        "contact": "Contactez-moi",
+        "copyright": {
+            "text": "Tous droits réservés",
+            "year": 2024
+        }
+    },
+    "en":{
+        "about": "This application was developed by Mohamed Amine Ameur",
+        "contact": "Contact me",
+        "copyright": {
+            "text": "All rights reserved",
+            "year": 2024
+        }
+    }
+}

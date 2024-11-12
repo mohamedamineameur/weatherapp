@@ -1,0 +1,36 @@
+.selector-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-family: 'Archivo', sans-serif;
+    margin: 20px;
+}
+
+.selector-container label {
+    font-size: 16px;
+    color: #ffffff; /* Changed to white for better contrast */
+    font-weight: bold;
+}
+
+.styled-select {
+    padding: 8px 12px;
+    border: 1px solid #ffffff; /* Changed to white for better contrast */
+    border-radius: 5px;
+    background-color: #333333; /* Darker background color */
+    color: #ffffff; /* Changed to white for better contrast */
+    font-size: 16px;
+    font-family: 'Archivo', sans-serif;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.styled-select:hover {
+    background-color: #555555; /* Slightly lighter background color on hover */
+    color: #ffffff;
+}
+
+.styled-select:focus {
+    border-color: #888888; /* Lighter border color on focus */
+}

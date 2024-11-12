@@ -1,0 +1,10 @@
+{
+    "en": {
+        "title": "About This Application",
+        "paragraph": "This application is developed to showcase my web development skills. I am Mohemed Amine AMEUR, a Full Stack Web Developer with a passion for creating dynamic and responsive web applications. My expertise includes working with modern web technologies such as React, Node.js, and TypeScript. I strive to write clean, efficient, and maintainable code. Through this application, I aim to demonstrate my ability to solve complex problems, implement best practices, and deliver high-quality software solutions."
+    },
+    "fr": {
+        "title": "À propos de cette application",
+        "paragraph": "Cette application est développée pour présenter mes compétences en développement web. Je suis Mohemed Amine AMEUR, un développeur web Full Stack passionné par la création d'applications web dynamiques et réactives. Mon expertise inclut l'utilisation des technologies modernes telles que React, Node.js et TypeScript. Je m'efforce d'écrire un code propre, efficace et maintenable. À travers cette application, je souhaite démontrer ma capacité à résoudre des problèmes complexes, à appliquer les meilleures pratiques et à fournir des solutions logicielles de haute qualité."
+    }
+}

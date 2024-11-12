@@ -1,0 +1,16 @@
+{
+    "en": {
+        "title": "Contact Us",
+        "name": "Name: Mohamed Amine Ameur",
+        "email": "Email: mohamed.amine.ameur1@gmail.com",
+        "phone": "Phone: +1 613-404-6702",
+        "linkedin": "LinkedIn"
+    },
+    "fr": {
+        "title": "Contactez-Nous",
+        "name": "Nom: Mohamed Amine Ameur",
+        "email": "Email: mohamed.amine.ameur1@gmail.com",
+        "phone": "Téléphone: +1 613-404-6702",
+        "linkedin": "LinkedIn"
+    }
+}

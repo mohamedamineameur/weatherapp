@@ -1,0 +1,12 @@
+{
+    "fr":{
+        "loading": "Chargement...",
+        "cityChange": "Changer de ville",
+        "search": "Rechercher"
+    },
+    "en":{
+        "loading": "Loading...",
+        "cityChange": "Change city",
+        "search": "Search"
+    }
+}
